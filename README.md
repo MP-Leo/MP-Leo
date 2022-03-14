@@ -2,7 +2,7 @@
 
 - 📖 Acadêmico de Ciência da Computação, cursando o 5° semestre.
 - 🔭 Atualmente trabalhando com desenvolvimento back-end.
-- 🌱 Interessado nas áreas de IA e Deep learning.
+- 🌱 Interessado nas áreas de IA e Data Science.
 - 📚 Hoje em dia estudo IA e desenvolvimento full stack.
 
 <div align="left">
