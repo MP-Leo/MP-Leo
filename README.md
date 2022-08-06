@@ -1,8 +1,7 @@
 ## Olá ! Me chamo Leonardo Marcondes Pereira
 
-- 📖 Acadêmico de Ciência da Computação, cursando o 5° semestre.
+- 📖 Acadêmico de Ciência da Computação, cursando o 6° semestre.
 - 🔭 Atualmente trabalhando com desenvolvimento back-end.
-- 🌱 Interessado nas áreas de IA e Data Science.
 
 <div align="left">
   <a href="https://github.com/MP-Leo">
