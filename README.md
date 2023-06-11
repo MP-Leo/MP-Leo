@@ -1,6 +1,6 @@
 ## Olá ! Me chamo Leonardo Marcondes Pereira
 
-- 📖 Acadêmico de Ciência da Computação, cursando o 6° semestre.
+- 📖 Acadêmico de Ciência da Computação, cursando o 7° semestre.
 - 🔭 Atualmente trabalhando com desenvolvimento back-end.
 
 <div align="left">
